@@ -1,2 +1,3 @@
-# NPS_map_symbols
-SVG files for NPS Maps and Elements
+National Park Service Map Symbols and Elements
+
+Taken from: https://www.nps.gov/hfc/carto/map-symbols.cfm
