@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.75mm"
+   height="3.75mm"
+   viewBox="0 0 3.75 3.75"
+   version="1.1"
+   id="svg13826"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="lookout_tower_light.svg">
+  <defs
+     id="defs13820" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="28.687777"
+     inkscape:cx="7.5166686"
+     inkscape:cy="6.238671"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="691"
+     inkscape:window-height="712"
+     inkscape:window-x="674"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     gridtolerance="10"
+     guidetolerance="2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid13828" />
+    <sodipodi:guide
+       position="0.13043093,3.8477124"
+       orientation="1,0"
+       id="guide20533"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.9173346,3.6129367"
+       orientation="0,1"
+       id="guide20535"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata13823">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-293.25)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4791"
+       d="m 3.1992916,296.86176 c 0.2301311,0 0.4161684,-0.18604 0.4161684,-0.41755 v -2.65272 c 0,-0.23014 -0.1860373,-0.41617 -0.4161684,-0.41617 H 0.54518924 c -0.23013106,0 -0.41616842,0.18603 -0.41616842,0.41617 v 2.65272 c 0,0.23151 0.18603736,0.41755 0.41616842,0.41755 z m 0,0"
+       style="fill:#211e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4793"
+       d="m 0.54518924,293.4456 c -0.1901684,0 -0.34588803,0.15434 -0.34588803,0.34589 v 2.6541 c 0,0.19017 0.15571963,0.34451 0.34588803,0.34451 H 3.1992916 c 0.1901684,0 0.3458879,-0.15434 0.3458879,-0.34451 v -2.6541 c 0,-0.19155 -0.1557195,-0.34589 -0.3458879,-0.34589 z m 0,0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4795"
+       d="m 1.4354027,294.43503 h 0.8585165 v -0.33762 H 1.4354027 Z m 0.7661875,0.79099 -0.2080825,0.25081 0.3596676,0.43821 z m -0.055121,-0.24942 -0.066146,-0.30317 H 1.6503749 l -0.066146,0.30179 0.2811215,0.34451 z m -0.7703221,0.93844 0.3596676,-0.43821 -0.2080825,-0.25081 z m -0.096464,0.43271 -0.035828,0.16536 H 1.0054549 l 0.4078992,-1.8383 -0.2356449,-10e-4 v -0.66973 l 0.6876414,-0.3073 0.6862622,0.3073 v 0.66973 l -0.2342656,10e-4 0.4065199,1.8383 H 2.4868463 l -0.037208,-0.16398 -0.5842882,-0.71383 z m 0,0"
+       style="fill:#211e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775" />
+  </g>
+</svg>
